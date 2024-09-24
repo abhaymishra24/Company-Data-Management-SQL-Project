@@ -1,7 +1,6 @@
 # SQL_project_Employees_Data
 
-![Company Logo] (https://github.com/abhaymishra24/SQL_project_Employees_Data/blob/main/company_logo.jpg)
-
+![Company Logo](https://github.com/abhaymishra24/SQL_project_Employees_Data/blob/main/company_logo.jpg)
 
 ## Project Description
 
