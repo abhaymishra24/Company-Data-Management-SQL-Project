@@ -1,26 +1,32 @@
 # SQL_project_Employees_Data
 
+![Company Logo] ()
+
 
 ## Project Description
 
- Sample project Based on SQL query for filter the Data from company Database-  In this project, include one file which is based filter all Data of company's employees , their ID, Name, Salary, Hire date, Department etc.
+ Sample project based on an SQL query to filter data from a company database- In this project, included one file which filters all data of the company's employees, including their ID, Name, Salary, Hire Date, Department, etc.
 
 ## Column include in Employee_Table
 
 There are 1000 of Data available in this Employees Table with 14 columns
 
-- EEID  
-- Full_Name  
-- Job_tittle 
-- Department
-- Business_unit 
-- Gender 
-- Ethnicity 
-- Age 
-- Hire_date 
-- Annual_salary  
-- Bonus_per 
-- Country 
-- City 
-- Exit_date
+- EEID            (Id of employees)
+- Full_Name       (full name of employees)  
+- Job_tittle      (their job positions) 
+- Department      (their departments)
+- Business_unit   (their Business unit)
+- Gender          (their genders identification)
+- Ethnicity       (their continent)
+- Age             (their age)
+- Hire_date       (their first hiring date)
+- Annual_salary   (their particular annual salaries)
+- Bonus_per       (their bonus in percentage)
+- Country         (their origin country)
+- City            (their city as well)
+- Exit_date       (their exit data from company)
+
+
+
+
 
