@@ -9,3 +9,18 @@
 
 There are 1000 of Data available in this Employees Table with 14 columns
 
+- EEID  
+- Full_Name  
+- Job_tittle 
+- Department
+- Business_unit 
+- Gender 
+- Ethnicity 
+- Age 
+- Hire_date 
+- Annual_salary  
+- Bonus_per 
+- Country 
+- City 
+- Exit_date
+
