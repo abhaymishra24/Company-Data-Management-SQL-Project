@@ -1,7 +1,6 @@
 # SQL_project_Employees_Data
 
-![Company Logo](https://github.com/abhaymishra24/SQL_project_Employees_Data/blob/main/company_logo.jpg)
-
+![Company Logo](https://github.com/abhaymishra24/SQL_project_Employees_Data/blob/main/Company_logo2.png)
 ## Project Description
 
  Sample project based on an SQL query to filter data from a company database- In this project, included one file which filters all data of the company's employees, including their ID, Name, Salary, Hire Date, Department, etc.
