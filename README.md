@@ -2,17 +2,17 @@
 
 ![Company Logo](https://github.com/abhaymishra24/SQL_project_Employees_Data/blob/main/Company_logo2.png)
 
-## Project Description ✍️
+## Project Description✍️
 
  Sample project based on an SQL query to filter data from a company database- In this project, included one file which filters all data of the company's employees, including their ID, Name, Salary, Hire Date, Department, etc.
 
-## Objective  📄
+## Objective✍️
  - Filter the data from the company's employee database.
  - Check employees' names, salaries, departments, and other relevant information according to the company's requirements.
  - Requirements to access employee data from a particular perspective.
  - Filter the data for a better understanding of the workforce of the company.
 
-## Column include in Employee_Table ⚙️
+## Column include in Employee_Table-
 
 There are 1000 of Data available in this Employees Table with 14 columns
 
