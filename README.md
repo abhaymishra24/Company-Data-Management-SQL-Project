@@ -1,5 +1,5 @@
 
-# SQL project manage the Employees Data from Company's Employee Database
+# SQL project (Manage the employees data from company's employee database)
 
 ![Company Logo](https://github.com/abhaymishra24/SQL_project_Employees_Data/blob/main/Company_logo2.png)
 
