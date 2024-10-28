@@ -4,7 +4,7 @@
 
 ## Project Description✍️
 
- Sample project based on an SQL query to filter data from a company database- In this project, included one file which filters all data of the company's employees, including their ID, Name, Salary, Hire Date, Department, etc.
+Sample project based on an SQL query to filter data from a company database- In this project, included one file which filters all data of the company's employees, including their ID, Name, Salary, Hire Date, Department, etc.
 
 ## Objective✍️
  - Filter the data from the company's employee database.
@@ -12,6 +12,10 @@
  - Requirements to access employee data from a particular perspective.
  - Filter the data for a better understanding of the workforce of the company.
 
+## Tech Stack
+- SQL
+- DBMS
+- 
 ## Column include in Employee_Table-
 
 There are 1000 of Data available in this Employees Table with 14 columns
