@@ -15,7 +15,7 @@ Sample project based on an SQL query to filter data from a company database- In 
 ## Tech Stack
 - SQL
 - DBMS
-- 
+
 ## Column include in Employee_Table-
 
 There are 1000 of Data available in this Employees Table with 14 columns
@@ -35,14 +35,8 @@ There are 1000 of Data available in this Employees Table with 14 columns
 - City            (their city as well)
 - Exit_date       (their exit data from company)
 
-<--- In this project, I added two files containing employee data and performed various SQL queries to filter new data from the Employees Database.📄✍️🧑‍💻 --->
+[ In this project, I added two files containing employee data and performed various SQL queries to filter new data from the Employees Database.📄✍️🧑‍💻 ]
 
 ## Thankyou for visit on this repository
 
 - Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝😊🧑‍💻
- 
-
-
-
-
-
