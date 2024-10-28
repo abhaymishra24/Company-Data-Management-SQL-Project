@@ -1,3 +1,4 @@
+
 # SQL project manage the Employees Data from Company's Employee Database
 
 ![Company Logo](https://github.com/abhaymishra24/SQL_project_Employees_Data/blob/main/Company_logo2.png)
@@ -38,5 +39,4 @@ There are 1000 of Data available in this Employees Table with 14 columns
 [ In this project, I added two files containing employee data and performed various SQL queries to filter new data from the Employees Database.📄✍️🧑‍💻 ]
 
 ## Thankyou for visit on this repository
-
-- Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝😊🧑‍💻
+Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝😊🧑‍💻
