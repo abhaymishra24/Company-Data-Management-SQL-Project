@@ -9,7 +9,6 @@ SELECT * FROM company_employee_data;
 -- <-- Second step 2 - select all particuler data collection from different column one by one -->
 
  
-
 SELECT EEID FROM company_employee_data;          -- [ EMPOLYEE ID]
 
 SELECT FULL_NAME FROM company_employee_data;        -- [ EMPLOYEE NAME]
@@ -222,5 +221,3 @@ ORDER BY AGE ASC
 LIMIT 100;
 
 -- All company data should be handle carefully by SQL query and filter them again and again 
-
-   
