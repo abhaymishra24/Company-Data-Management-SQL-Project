@@ -1,12 +1,7 @@
-
-
-
 -- Company wants new Data filter imfomation about company employees 
-
 
 SELECT * FROM company.company_employee_data;
 
- 
 SELECT FULL_NAME 
 FROM company.company_employee_data
 WHERE  EEID IN
