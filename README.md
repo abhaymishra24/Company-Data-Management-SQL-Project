@@ -1,14 +1,15 @@
 
 # Employees-Data-Management(SQL Project)
 
-#### [ Manage the employees data from company's employee database ]
-
-![Company Logo](https://github.com/abhaymishra24/SQL_project_Employees_Data/blob/main/Company_logo2.png)
+( Manage the employees data from company's employee database )
 
 ## Project Description✍️
 
 Sample project based on an SQL query to filter data from a company database- In this project, included one file which filters all data of the company's employees, including their ID, Name, Salary, Hire Date, Department, etc.
 
+![Company Logo](https://github.com/abhaymishra24/SQL_project_Employees_Data/blob/main/Company_logo2.png)
+
+ 
 ## Objective✍️
  - Filter the data from the company's employee database.
  - Check employees' names, salaries, departments, and other relevant information according to the company's requirements.
@@ -21,7 +22,7 @@ Sample project based on an SQL query to filter data from a company database- In 
 
 ## Column include in Employee_Table-
 
-There are 1000 of Data available in this Employees Table with 14 columns
+There are 1000 of Data available in this Employees Table with 14 columns:
 
 - EEID            (Id of employees)
 - Full_Name       (full name of employees)  
