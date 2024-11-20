@@ -21,7 +21,7 @@ Sample project based on an SQL query to filter data from a company database- In 
 - SQL
 - DBMS
 
-## Column include in Employee_Table-
+## Column include in Employee and sales Table-
 
 There are 1000 of Data available in this Employees Table with 14 columns:
 
@@ -42,7 +42,7 @@ There are 1000 of Data available in this Employees Table with 14 columns:
 
 [ In this project, I added two files containing employee data and performed various SQL queries to filter new data from the Employees Database.📄✍️🧑‍💻 ]
 
-[ In sales tables , there are 50 plus data available of different product sale ( I add one file containing sale data and performed various SQL queries to filter new data from the Company's Database.📄✍️🧑‍💻]
+#### [ In sales tables , there are 50 plus data available of different product sale ( I add one file containing sale data and performed various SQL queries to filter new data from the Company's Database.📄✍️🧑‍💻]
 ( I did not mentioned all columns here from sale table)
 
 
