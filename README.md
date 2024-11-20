@@ -1,7 +1,7 @@
 
 # Employees-Data-Management(SQL Project)
 
-( Manage the employees data from company's employee database )
+##### ( Manage the employees and sales data from company's database )
 
 ## Project Description✍️
 
