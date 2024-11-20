@@ -11,10 +11,11 @@ Sample project based on an SQL query to filter data from a company database- In 
 
  
 ## Objective✍️
- - Filter the data from the company's employee database.
+ - Filter the data from the company's database.
  - Check employees' names, salaries, departments, and other relevant information according to the company's requirements.
- - Requirements to access employee data from a particular perspective.
- - Filter the data for a better understanding of the workforce of the company.
+ - Check product sales of company and filter the different data collections from table of sales.
+ - Requirements to access employee data and sales data from a particular perspective.
+ - Filter the data for a better understanding of the workforce of the company and sales of company's product.
 
 ## Tech Stack⚙️
 - SQL
