@@ -1,27 +1,27 @@
+ 
+## Employees-Data-Management(SQL Project)
 
-# Employees-Data-Management(SQL Project)
+#### ( Manage the employees and sales data from company's database )
 
-##### ( Manage the employees and sales data from company's database )
-
-## Project Description✍️
+### Project Description✍️
 
 Sample project based on an SQL query to filter data from a company database- In this project, included many files which filters all data of the company's employees, sales and other things. In employee table including their ID, Name, Salary, Hire Date, Department, etc.
 
 ![Company Logo](https://github.com/abhaymishra24/SQL_project_Employees_Data/blob/main/Company_logo2.png)
 
  
-## Objective✍️
+### Objective✍️
  - Filter the data from the company's database.
  - Check employees' names, salaries, departments, and other relevant information according to the company's requirements.
  - Check product sales of company and filter the different data collections from table of sales.
  - Requirements to access employee data and sales data from a particular perspective.
  - Filter the data for a better understanding of the workforce of the company and sales of company's product.
 
-## Tech Stack⚙️
+### Tech Stack⚙️
 - SQL 
 - DBMS
 
-## Column include in Employee and sales Table-
+### Column include in Employee and sales Table-
 
 There are 1000 of Data available in this Employees Table with 14 columns:
 
@@ -46,5 +46,5 @@ There are 1000 of Data available in this Employees Table with 14 columns:
 ( I did not mentioned all columns here from sales table).
 
 
-## Thank you for visit on this repository😊
+### Thank you for visit on this repository😊
 Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝😊🧑‍💻
