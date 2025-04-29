@@ -18,8 +18,8 @@ Sample project based on an SQL query to filter data from a company database- In 
  - Filter the data for a better understanding of the workforce of the company and sales of company's product.
 
 ### Tech Stack⚙️
-- SQL 
-- DBMS
+- SQL <a href="https://www.sql.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="20" height="20"/>
+- DBMS <a href="https://www.sql.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331759/sql-azure.svg" alt="sql" width="20" height="20"/>
 
 ### Column include in Employee and sales Table-
 
