@@ -1,5 +1,5 @@
  
-## Employees-Data-Management(SQL Project)
+## Employees-Data-Management(SQL Project <a href="https://www.sql.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="20" height="20"/>)
 
 #### ( Manage the employees and sales data from company's database )
 
