@@ -1,7 +1,7 @@
  
 ## Employees-Data-Management(SQL Project <a href="https://www.sql.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="20" height="20"/>)
 
-#### (Manage employee and sales data in the company's database by executing SQL queries and DBMS commands.)
+#### (Executed SQL queries and DBMS commands to manage employee and sales data within the company's database.)
 
 ### Project Description✍️
 
