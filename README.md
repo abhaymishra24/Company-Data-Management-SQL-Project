@@ -22,7 +22,7 @@ This is a sample project based on SQL queries to filter data from a company data
 
 ### Column include in Employee and sales Table-
 
-- There are 1000 of Data available in this Employees Table with 14 columns:
+There are 1000 of Data available in this Employees Table with 14 columns:
 
 - EEID            (Id of employees)                                        
 - Full_Name       (full name of employees)  
