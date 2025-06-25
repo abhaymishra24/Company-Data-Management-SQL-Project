@@ -43,7 +43,7 @@ There are 1000 of Data available in this Employees Table with 14 columns:
 
 ### About Sales Data 🧑‍💻 
 (In the sales table, there are over 50 records of different product sales. I added a file containing the sales data and performed various SQL queries to filter new data from the company's database.)
-( I did not mentioned all columns here from sales table).
+###### ( I did not mentioned all columns here from sales table.)
 
 ### Thank you for visit on this repository😊
 Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝🧑‍💻
