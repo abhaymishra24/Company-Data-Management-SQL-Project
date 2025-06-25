@@ -5,7 +5,7 @@
 
 ### Project Description✍️
 
-Sample project based on an SQL query to filter data from a company database- In this project, included many files which filters all data of the company's employees, sales and other things. In employee table including their ID, Name, Salary, Hire Date, Department, etc.
+Sample project based on a SQL query to filter data from a company database- In this project, included many files which filters all data of the company's employees, sales and other things. In employee table including their ID, Name, Salary, Hire Date, Department, etc.
 
 ![Company Logo](https://github.com/abhaymishra24/SQL_project_Employees_Data/blob/main/Company_logo2.png)
 
