@@ -1,5 +1,5 @@
 
--- // Use company database for filter data for employee.
+-- // Use company database for filter data for employee and sales.
 
 USE company;
 
