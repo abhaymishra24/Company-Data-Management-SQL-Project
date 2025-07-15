@@ -67,3 +67,15 @@ SELECT emp.EEID, emp.full_name, emp.job_tittle, emp.age, country, s.city FROM em
 
 SELECT emp.EEID, emp.full_name, emp.job_tittle, emp.age, country, s.city FROM employeedata AS emp  RIGHT JOIN saledata AS s ON emp.city = s.city;  
   
+SELECT SalesMan, Unit_price, city FROM saledata WHERE SalesMan LIKE '%n%';
+
+SELECT SalesMan, Unit_price, city FROM saledata WHERE SalesMan LIKE 'n%';
+
+SELECT SalesMan, Unit_price, city FROM saledata WHERE SalesMan LIKE '%n' LIMIT 10;
+
+select ROUND(SUM(Age),2) from employeedata; 
+
+SELECT * FROM saledata;
+
+SELECT ROUND(SUM(Age),2) FROM saledata; 
+
