@@ -29,3 +29,7 @@ select region, manager, unit_price, units from saledata where units < 45;
 
 select manager, units, city from saledata where units < 40 order by units desc;
 
+select s.manager, s.units, e.gender, e.age, e.city from saledata s  right join employeedata e on e.city = s.city; 
+
+select s.manager, s.units, e.gender, e.age, e.city from saledata s  left join employeedata e on e.city = s.city; 
+
