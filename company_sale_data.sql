@@ -27,9 +27,5 @@ select region, manager, unit_price from saledata;
 
 select region, manager, unit_price, units from saledata where units < 45;
 
-
-
-
-
- 
+select manager, units, city from saledata where units < 40 order by units desc;
 
