@@ -1,5 +1,5 @@
  
-## Company-Data-Management (Sale and Employees Managment, SQL Project <a href="https://www.sql.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="20" height="20"/>)
+## Company-Data-Management (Sales and Employees Managment, SQL Project <a href="https://www.sql.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="20" height="20"/>)
 
 #### (Executed SQL queries and DBMS commands to manage employees and sales data within the company's database.)
 
@@ -20,7 +20,7 @@ This is a sample project based on SQL queries to filter data from a company data
 - SQL <a href="https://www.sql.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="20" height="20"/>
 - DBMS <a href="https://www.sql.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331759/sql-azure.svg" alt="sql" width="20" height="20"/>
 
-### Column include in Employee and sales Table-
+### Column include in Employees and sales Table-
 
 There are 1000 of Data available in this Employees Table with 14 columns:
 
