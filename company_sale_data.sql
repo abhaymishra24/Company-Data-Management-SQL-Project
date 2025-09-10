@@ -33,9 +33,4 @@ select s.manager, s.units, e.gender, e.age, e.city from saledata s  right join e
 
 select s.manager, s.units, e.gender, e.age, e.city from saledata s  left join employeedata e on e.city = s.city;
 
-select avg(unit_price) from saledata;
-
-UNION
-
-select avg
 
