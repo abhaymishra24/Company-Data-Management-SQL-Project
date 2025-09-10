@@ -1,5 +1,5 @@
  
-## Company-Data-Management(SQL Project <a href="https://www.sql.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="20" height="20"/>)
+## Company-Data-Management( In sale and Employee work, SQL Project <a href="https://www.sql.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="20" height="20"/>)
 
 #### (Executed SQL queries and DBMS commands to manage employee and sales data within the company's database.)
 
