@@ -39,5 +39,9 @@ select avg(unit_price) from saledata
 UNION 
 select avg(age) from employeedata;
 
+SELECT ROUND(SUM(Unit_price),2) FROM saledata; 
+
+select ROUND(SUM(Age),2) from employeedata; 
+
 
 
