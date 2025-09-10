@@ -43,5 +43,9 @@ SELECT ROUND(SUM(Unit_price),2) FROM saledata;
 
 select ROUND(SUM(Age),2) from employeedata; 
 
+SELECT SalesMan, Unit_price, city FROM saledata WHERE SalesMan LIKE '%n%';
 
+SELECT SalesMan, Unit_price, city FROM saledata WHERE SalesMan LIKE 'n%';
+
+SELECT SalesMan, Unit_price, city FROM saledata WHERE SalesMan LIKE '%n' LIMIT 10;
 
