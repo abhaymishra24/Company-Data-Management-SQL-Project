@@ -1,7 +1,7 @@
  
-## Company-Data-Management(Sale and Employees Managment, SQL Project <a href="https://www.sql.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="20" height="20"/>)
+## Company-Data-Management (Sale and Employees Managment, SQL Project <a href="https://www.sql.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="20" height="20"/>)
 
-#### (Executed SQL queries and DBMS commands to manage employee and sales data within the company's database.)
+#### (Executed SQL queries and DBMS commands to manage employees and sales data within the company's database.)
 
 ### Project Description✍️
 
