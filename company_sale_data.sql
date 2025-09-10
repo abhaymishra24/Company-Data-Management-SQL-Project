@@ -49,3 +49,9 @@ SELECT SalesMan, Unit_price, city FROM saledata WHERE SalesMan LIKE 'n%';
 
 SELECT SalesMan, Unit_price, city FROM saledata WHERE SalesMan LIKE '%n' LIMIT 10;
 
+SELECT emp.EEID, emp.full_name, emp.job_tittle, emp.age, country, s.city FROM employeedata AS emp  LEFT JOIN saledata AS s ON emp.city = s.city;  
+
+SELECT emp.EEID, emp.full_name, emp.job_tittle, emp.age, country, s.city FROM employeedata AS emp INNER JOIN saledata AS s ON emp.city = s.city;
+
+SELECT emp.EEID, emp.full_name, emp.job_tittle, emp.age, country, s.city FROM employeedata AS emp  RIGHT JOIN saledata AS s ON emp.city = s.city;  
+  
